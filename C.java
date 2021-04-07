@@ -31,8 +31,4 @@ public class C implements I {
     public int ae() {
         return 8;
     }
-
-    public void ab() {
-        return;
-    }
 }
