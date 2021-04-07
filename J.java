@@ -35,4 +35,8 @@ public class J implements I, E {
     public long dd() {
         return 99999;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }

@@ -27,4 +27,8 @@ public class C implements I {
     public void bb() {
         System.out.println(42);
     }
+
+    public int ae() {
+        return 8;
+    }
 }
