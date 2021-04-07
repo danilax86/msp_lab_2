@@ -27,4 +27,8 @@ public class J implements I, E {
     public void ab() {
         System.out.println("\n");
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
