@@ -23,4 +23,8 @@ public class C implements I {
     public byte oo() {
         return 2;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
