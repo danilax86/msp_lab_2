@@ -31,4 +31,8 @@ public class J implements I, E {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
