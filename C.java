@@ -19,4 +19,8 @@ public class C implements I {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public byte oo() {
+        return 2;
+    }
 }
