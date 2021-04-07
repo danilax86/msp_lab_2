@@ -39,8 +39,4 @@ public class J implements I, E {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public Object pp() {
-        return this;
-    }
 }
